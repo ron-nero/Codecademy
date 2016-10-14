@@ -51,4 +51,4 @@ def get_class_average(students):
 students = [lloyd,tyler,alice]
 print get_class_average(students)
 print get_letter_grade(get_class_average(students))
-#Print Student Average and Average Letter Grade
+#Print Student Average Score and Average Letter Grade
